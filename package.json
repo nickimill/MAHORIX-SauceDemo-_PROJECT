@@ -11,7 +11,7 @@
     "cy:open": "cypress open"
   },
   "devDependencies": {
-    "cypress": "^12.17.1"
+    "cypress": "^15.6.0"
   },
   "keywords": [],
   "author": "",
